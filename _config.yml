@@ -74,7 +74,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "哈喽！我叫钟东东，欢迎你来探索我的秘密花园！ </br>[水源社区](https://shuiyuan.sjtu.edu.cn/u/%E4%B8%BA%E4%BA%86%E9%98%B2%E6%AD%A2%E8%A2%AB%E7%9B%92%E5%8F%96%E4%BA%86%E4%B8%80%E4%B8%AA%E5%90%8D%E5%AD%97/summary) </br> [知乎](https://www.zhihu.com/people/zhong-pin-xin-biao-xian-bing-ta) </br> [QQ](https://qm.qq.com/q/l48IATVvvq) </br> [小红书](https://www.xiaohongshu.com/user/profile/62c028a2000000001b025feb?xsec_token=YBWr7lh1Skz64E1roPM1V47OX6zHmfAnYYN0PoQ3CRY2k%3D&xsec_source=app_share&xhsshare=CopyLink&appuid=62c028a2000000001b025feb&apptime=1739368783&share_id=be4b7d4ec2fa4c46b83b4fa48c900d0d&share_channel=copy_link)"
+sidebar-about-description: "哈喽！我叫钟东东，欢迎你来探索我的秘密花园！这里会不定期更新我的生活日记和发疯日常！ </br> 旅游|美食|学习|数学|哲学|古典音乐|作曲"
 sidebar-avatar: https://notes.sjtu.edu.cn/uploads/upload_644cdd9baeb6a8a97a4ce16613f2f532.gif # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
