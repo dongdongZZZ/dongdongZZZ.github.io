@@ -4,7 +4,7 @@ title:      "港澳之旅 day2"
 subtitle:   ""
 date:       2024-08-28 13:00:00
 author:     "zdd"
-header-img: "https://notes.sjtu.edu.cn/uploads/upload_01d7043310e69406e74fd66120f12d11.jpg"
+header-img: https://notes.sjtu.edu.cn/uploads/upload_01d7043310e69406e74fd66120f12d11.jpg
 catalog: true
 tags:
     - zdd的旅行流水账
