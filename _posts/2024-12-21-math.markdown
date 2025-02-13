@@ -135,7 +135,7 @@ tags:
 
 将常染色体数和性染色体数相加，可得
 
- $$ P\left(X=k\right)=P\left(T=k\right)P\left(X_{23}=0\right)+P\left(T=k-1\right)P\left(X_{23}=1\right)\ , k\ \in\{0,1,2,\ldots,23\} $$ 
+ $$ P\left(X=k\right)=P\left(T=k\right)P\left(X_{23}=0\right)+P\left(T=k-1\right)P\left(X_{23}=1\right) , k \in\{0,1,2,\ldots,23\} $$ 
 
 正态分布的概率密度函数为
 
