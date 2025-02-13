@@ -4,7 +4,7 @@ title:      "一个人可以知道除自己外的其他人不是缸中之脑"
 subtitle:   ""
 date:       2024-12-25 00:18:00
 author:     "zdd"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/bg-walle.jpg"
 catalog: true
 tags:
     - zdd的奇思妙想
