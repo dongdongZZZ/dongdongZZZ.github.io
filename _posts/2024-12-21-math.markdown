@@ -8,6 +8,7 @@ header-img: "img/bg-walle.jpg"
 catalog: true
 tags:
     - zdd的奇思妙想
+mathjax: true
 ---
 
 > 这篇论文是概统的大作业。
