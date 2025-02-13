@@ -1,5 +1,4 @@
 ---
-mathjax: true
 layout:     post
 title:      "亲属间染色体相似程度分析"
 subtitle:   ""
@@ -7,6 +6,7 @@ date:       2024-12-21 00:12:00
 author:     "zdd"
 header-img: "img/bg-walle.jpg"
 catalog: true
+mathjax: true
 tags:
     - zdd的奇思妙想
 ---
