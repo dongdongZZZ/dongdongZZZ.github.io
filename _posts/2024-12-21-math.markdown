@@ -1,3 +1,4 @@
+mathjax: true
 ---
 layout:     post
 title:      "亲属间染色体相似程度分析"
@@ -8,7 +9,6 @@ header-img: "img/bg-walle.jpg"
 catalog: true
 tags:
     - zdd的奇思妙想
-mathjax: true
 ---
 
 > 这篇论文是概统的大作业。
