@@ -75,7 +75,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "哈喽！我叫钟东东，欢迎你来探索我的秘密花园！这里会不定期更新我的生活日记和发疯日常！ </br> </br> 本科在读 </br>major自动化 </br>minor数学与应用数学 </br> </br> infp/infj </br></br> 旅游|美食|学习|数学|哲学|编曲"
-sidebar-avatar: https://notes.sjtu.edu.cn/uploads/upload_644cdd9baeb6a8a97a4ce16613f2f532.gif # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://notes.sjtu.edu.cn/uploads/upload_513f648fc759bd9c6296d1ea636a945a.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: false # whether or not using Feature-Tags
