@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "zdd的Singapore游记（未完工）"
-subtitle:   ""
+title:      "zdd的Singapore游记 day1/2"
+subtitle:   "小国寡民的未来城市"
 date:       2025-02-17 22:17:00
 author:     "zdd"
 header-img: "img/post-bg-2015.jpg"
@@ -9,6 +9,28 @@ catalog: true
 tags:
     - zdd的旅行流水账
 ---
+
+“新加坡有哪些值得一去的城市？”
+
+“新加坡的首都是哪里？”
+
+“新加坡为什么没有国内航班？”
+
+
+
+你说得对，但是新加坡是新加坡最具代表性的旅游城市，是新加坡的政治、经济、文化中心。要说新加坡哪个城市最值得玩，那绝对非新加坡莫属。俗话说得好，不到新加坡，就等于没来过新加坡。
+
+
+
+新加坡其实是一个小国寡民的城邦国家，面积只有700多平方公里，也就一个城市大小。不过人家的博物馆叫“国家博物馆”，图书馆叫“国家图书馆”，这个城市的市领导就是总理、总统，档次可高了。
+
+
+
+我们之前把去新加坡的群叫做“坡县春节慰问团”，不过为了表示对新加坡人民的尊重，我们把群名改成了“新加坡自由行群”。
+
+
+
+作为一个华人占比超70％的国家（城市？），新加坡既有着和中国众多的相似之处，又包含了来自世界各地的多元文化。在疫情的记忆逐渐被抹去，出国的阻隔被慢慢打破的这一大好时机，我们把新加坡作为疫情之后第一个出国游目的地，探索这一个富裕、开放、多元的奇妙国度。
 
 我们这次去新加坡坐的是新加坡酷航的飞机。这是新加坡的一个廉价航空公司，机票也确实便宜，大概六百块钱，不过行李要另外收费。
 
@@ -24,31 +46,39 @@ tags:
 
 飞机上有局域网，连上之后可以玩一些小游戏，看飞行地图等。多亏了这个局域网，我在飞机上玩了一个多小时的数独，让我在飞机上没有那么无聊。
 
-![](https://notes.sjtu.edu.cn/uploads/upload_45bf249ded66eaffb298d9dcef911789.png)
-<font size=2>小游戏</font>
 
-![](https://notes.sjtu.edu.cn/uploads/upload_28001844dfa082131bb5e600a6b64d3c.png)
-<font size=1>越南地貌</font>
+<span style="color: grey;"><font size=1>小游戏</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_40eae005be444e81f126a717227651b8.png)
 
-![](https://notes.sjtu.edu.cn/uploads/upload_ffb4eb41511bb80c8b4ba434d973d67a.png)
+
+<span style="color: grey;"><font size=1>越南地貌</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_687ca8f86d68078beca5e3ccf48e31a2.png)
+
+
 <span style="color: grey;"><font size=1>即将抵达新加坡，海上有很多货轮</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_6814739ce2f4421f94cd7dca4152eec0.png)
+
 
 落地新加坡后，我们就到达了亚洲第一大的樟宜机场。这个机场本身就是一个巨大的旅游景点，有四个航站楼一个超大型的购物中心，航站楼之间还有小火车相通。我对这个机场期待已久，不过我们把机场作为这次旅行的最后一个景点，花一整天的时间来参观。
 
-![](https://notes.sjtu.edu.cn/uploads/upload_356828c48e4dc7930640beec16272413.png)
 <span style="color: grey;"><font size=1>瀑布</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_8d3c36ed70c0f782fe8cf4ab928c61a9.png)
+
 
 樟宜机场最出名的打卡点，就是高达七层楼的巨大室内瀑布。瀑布位于商场“星耀樟宜”的正中央，周围被巨大的室内森林公园环绕，小火车在瀑布边上穿行，实在是壮观至极。
 
-![](https://notes.sjtu.edu.cn/uploads/upload_838fde2e80d22cdbf72cd635e61021de.png)
 
 商场有地上五层，地下五层，瀑布在地下的两层楼用一层玻璃罩着，在里面有五颜六色的灯光，非常好看。
+<span style="color: grey;"><font size=1></font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_3f446e2dead473e4646ef72719bcf21e.png)
 
-![](https://notes.sjtu.edu.cn/uploads/upload_bb2e0c383028eae210734157ff38535c.png)
 <span style="color: grey;"><font size=1>塔台</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_5ca908988e36b9799e2436722ebf2f97.png)
 
-![](https://notes.sjtu.edu.cn/uploads/upload_408c1feee8b15b52ccec8f568693607e.png)
+
 <span style="color: grey;"><font size=1>在顶楼拍瀑布和小火车</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_668ea6de11353a42979e02a8f4bbf1a6.png)
+
 
 这里虽然百分之七十都是华人，但是在这里英语是比汉语更加通用的语言。路上的各种路牌基本都是英文，店铺里的店员也默认跟你讲英语，不过如果你先说中文对方很有可能也会说（尤其是看着像华人的）。
 
@@ -56,8 +86,9 @@ tags:
 
 这里开了很多在中国也能看见的店，比如我们就去喝了奈雪的茶。
 
-![](https://notes.sjtu.edu.cn/uploads/upload_cd84d433060899d1d0c01fba4c67684e.png)
 <span style="color: grey;"><font size=1>奈雪の茶</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_9297623eabd4bf0565870c60750bd3bf.png)
+
 
 机场地下有一家名为“松发”的网红中餐馆，我们在这里吃晚饭。这里排队的人超级多，我们排了快半小时才能进去。
 
@@ -69,5 +100,306 @@ tags:
 
 我们点了排骨汤，虾饼，炸排骨，鸭爪等等，味道都挺好，排骨汤放的胡椒粉特别重，喝起来辣辣的。
 
-![](https://notes.sjtu.edu.cn/uploads/upload_d5dbcd6d0fdef8d570b6a088ab47dc8c.png)
 <span style="color: grey;"><font size=1>晚饭</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_f76c8a92e0144e832eb436d9b390b7c3.png)
+
+
+航站楼之间有运输用的小火车，免费的，只有两节车厢，无人驾驶。这小火车开的并不快，航站楼之间的距离其实也并不是很远，感觉它的观赏作用更大一些。
+
+<span style="color: grey;"><font size=1>skytrain</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_1a3e80f3222fcd602bb5d6e300a5b54f.png)
+
+
+吃饱饭我们就坐地铁前往酒店。
+
+
+
+我们每个人买了一张三日交通卡，将近100人民币，可以无限次乘坐地铁公交等。这里的地铁和香港一样，无需安检，刷卡即入。每条线路都有自己的名字和颜色，每个站点都有序号，站台有三种语言，方便不同语言的人沟通。
+
+
+
+与中国不同的是，这里的电梯是左立右行（尽管并没有什么标识有这样的要求，大家已经形成了一种习惯）。这里的人也比中国很多大城市的人都要讲秩序，整体素质很高。
+
+<span style="color: grey;"><font size=1>地铁站内</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_825696929e0e76b0ea722dae06bb4108.png)
+
+
+在地铁上，碰到有一个白人来用英语向我们问路，问我们市中心怎么去。我只好用蹩脚的英语告诉她要换乘。没想到在酒店办入住时，看见她和我们居然住在同一个酒店。
+
+
+
+地铁大部分时候只用英语报站，有时候会用中文。比国内简洁很多，几乎只报站名，没有多余的废话。
+
+
+
+在上飞机之前，我们大家都穿着羽绒服，下了地铁之后，只穿一件长袖都觉得热了。不愧是北纬1度的热带地区。
+
+
+
+我们住在市中心。走在街头，感觉确实不像是出国了，倒是很有香港的感觉。
+
+
+
+酒店可以说是天价。我们住的三人房，一张大床一张小床，人均一晚超过五百人民币🤑
+
+酒店前台是一个只会说英语的印度老哥，不过我爸照样顺利拿着护照办好了入住。
+
+酒店是四星级酒店，有十台电梯，刷卡后直接会安排好电梯和楼层，电梯里是没有按钮的，我们一开始不知道，搞得晕头转向的，真是乡下人没见过世面🙄
+
+<span style="color: grey;"><font size=1>酒店内景</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_c171520f8e59aa97e05e1e158d8cd7c6.png)
+
+
+客房面积极小，地面的通道根本打不开行李箱，还好能放在桌子上。不过既然是如此奢华的酒店，还是麻雀虽小五脏俱全，用三四平米的空间塞下了浴室，马桶和洗手盆。
+
+
+
+酒店没有矿泉水，不过有净水器和烧水壶，听说这里的水和香港一样，都很贵。
+
+
+
+酒店的夜景非常好，可以看见街景。
+
+<span style="color: grey;"><font size=1>洗手间</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_9de0195231d9a68d26baf08b7779d9a.png)
+
+
+<span style="color: grey;"><font size=1>酒店外景</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_65c309c39966dffa7885bcb73ef46f2e.png)
+
+
+我们住的地方靠近“牛车水”（可以说是新加坡的唐人街，牛车水地铁站的英文名就是Chinatown）我们入住之后想出去逛逛，结果一出去发现大部分店铺都已经关门了，没走多久就回去了。这里虽然属于热带，但夜生活似乎不算太丰富的。
+
+<span style="color: grey;"><font size=1>牛车水街景，现在还在过年，街上张灯结彩，还挺有年味的</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_5520581d77fe0a06b76cfe5a978d85cc.png)
+
+
+第二天一早，我们就开始了新加坡主城区的行程。今天是一个大晴天，非常热，我们都穿着短袖戴着遮阳帽，都快忘了现在是冬天了。
+
+
+
+
+
+<span style="color: grey;"><font size=1>酒店早上看见的风景</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_df634d0ee4460948cb95af90897a987a.png)
+
+
+我们首先前往全坡连锁的著名早餐店“亚坤”。点了一份6新左右的早餐，包含一个半熟鸡蛋，一块面包，一杯豆浆咖啡。面包里面夹着像炼奶一样的酱料，又酥又甜，绝对是甜口人的最爱；半熟鸡蛋绝对是这里最有特色的东西了，用勺子一捅，里面的蛋黄就会流出来，抹在面包片上，会让面包非常香；豆浆咖啡顾名思义，上面是咖啡，下面是豆浆，喝起来很香很甜，并没有什么违和感。
+
+不愧是华人开的早餐店，确实很合我们的胃口。这个早餐也很有饱腹感，吃了感觉都不用吃晚饭了。
+
+<span style="color: grey;"><font size=1>面包和半熟鸡蛋</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_0726845416db908b098b999e0dc5d795.png)
+
+
+<span style="color: grey;"><font size=1>豆浆咖啡</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_bb2f636bf88283cb3bd289134ec3c185.png)
+
+
+吃了早餐，我们首先前往新加坡最著名的地标鱼尾狮。我们走到公交车站，然后坐公交前往鱼尾狮公园。
+
+
+
+公交车站和香港不太一样，不需要排队。不过上下车都要刷卡，这跟中国内地是完全不同的。
+
+<span style="color: grey;"><font size=1>市中心地区街景</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_4e30bbbbad7a16fa3ae480bb866d2f74.png)
+
+
+我们还路过了字节跳动公司，Tiktok的周受资就是新加坡人。
+
+
+
+下了公交之后我们就到了鱼尾狮公园。这里公园是一个大湖，围在大湖周边的是城市的CBD。首先可以看见湖对面著名的金沙购物中心，三栋高楼，上面顶着一搜“船”。
+
+<span style="color: grey;"><font size=1>金沙购物中心</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_bfac30fc0203ea77e5c48e24bc7ee620.png)
+
+
+没走几步路，我们就到了鱼尾狮。这个喷水雕塑起码有三层楼高，比香港的地标金紫荆气派多了。有世界各地游客来这里拍照。
+
+<span style="color: grey;"><font size=1>鱼尾狮</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_80200252dd8f5e0e17f8eb0f83bcbf28.png)
+
+
+接着我们去参观海滨公园。公园里有一个一个长满了植物的塔，就像图里的一样。这个也是新加坡很著名的地标。
+
+
+
+我们花了几十块（人民币）登上塔去拍照，风景还是很不错的。
+
+
+
+旁边就是金沙购物中心，周围都是绿植
+<span style="color: grey;"><font size=1></font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_3b806fc21db19386f18dab6c5efba3d2.png)
+
+
+我们穿过购物中心，到一个公交车站等车前往下一站。这个购物中心里面有一个类似威尼斯水城的购物街，还有赌场，简直像是到了澳门。这里的金沙其实和澳门的金沙娱乐城是同一个老板。
+
+
+
+在公交车站，我们看见了城市里真正的“走地鸡”，这是真的鸡，乳毛颜色比家养的鸡漂亮很多，也很精瘦，不怎么怕人，就在大街上自由自在晃悠。不得不说这里的生态真是非常好。
+
+<span style="color: grey;"><font size=1>野鸡</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_8710cafd57e1a9a5bf2bcbb5635e84f3.png)
+
+
+然后我们去坐摩天轮。摩天轮可不便宜，将近两百块钱才能兜一圈。每个轿厢很大，可以容得下二三十人，不过我们去的时候人不多，所以可以包下一个厢，里面真的有一个小房间那么大。
+
+<span style="color: grey;"><font size=1>排队</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_6ebb44b6603783cbde90e3f61e1b741b.png)
+
+
+<span style="color: grey;"><font size=1>海景</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_c0b05e8fee9c4cbe09be5d41ef90d8a4.png)
+
+
+<span style="color: grey;"><font size=1>河景</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_89223b2be44d074fa9a501cf7b2159cd.png)
+
+
+<span style="color: grey;"><font size=1>楼景</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_3eb4e372b8f01a3672cf801b39099907.png)
+
+
+转一圈差不多半个小时，性价比并不高（其实新加坡很多景点的性价比都非常低）。唯一好的就是我们五个人在一个大轿厢里面，可以到处走来走去拍照。
+
+<span style="color: grey;"><font size=1>Press for green man怎么翻译？</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_61b5bdd1eb7f0568b6854962b5c6a56b.png)
+
+
+中午到一家商场吃午饭。我点了个十块多的鸡肉沙拉（人民币五十几），味道不错，不过真挺贵的。
+
+这里跟香港比还算大方，至少柠檬茶加冰不用另外收费
+<span style="color: grey;"><font size=1></font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_8c3957a4d6a45e02b05522768b201bcb.png)
+
+
+<span style="color: grey;"><font size=1>鸡肉沙拉</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_178bd5c9f09849b3b1bf430c100d5086.png)
+
+
+<span style="color: grey;"><font size=1>地铁</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_bf8cbc1af813e2b38fcf0ecf1ccf9945.png)
+
+
+下午坐地铁前往新加坡国家博物馆。博物馆本身外观应该是很漂亮的，可惜现在博物馆正在大修，只能从一个很偏僻的小门绕进去。
+
+
+
+博物馆有一个新加坡历史展览馆和一个热带雨林图片展。外地人门票要上百人民币，把一张通行证贴在自己胸口就可以进去参观了。
+
+
+
+看国外的博物馆，确实和看国内的有着完全不同的体验，虽然说这个馆里没有什么特别金碧辉煌穷奢极欲的华丽展品，但却是我印象最深的博物馆之一。
+
+
+
+国内的博物馆，无论哪个省，大都是先看石头，然后看青铜，然后看铁，然后看一些陶瓷、石碑、书画作品等等，最后就是一些革命文物等等。虽说每个省都有自己的特色，但还是有些同质化，所讲述的历史也大都是历史课本里讲的内容。
+
+
+
+这里的则不太一样。这里的展品来自世界各地，这里有华夏文明，马来文明，印度文明，欧洲文明的痕迹。这里讲的历史是新加坡这个国家的历史，讲新加坡过去的王朝，后来成为英国殖民地，在二战中被日本入侵，最终独立的历史。作为一个极小的国家，它的历史并没有出现在我们的历史课本中，却给我打开了一个全新的世界。
+
+<span style="color: grey;"><font size=1>馆内所有的文字说明都是英文，可以借助拍照翻译来看懂</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_9d18715cd78c0bc4b3112d984cc2cdcc.png)
+
+
+在博物馆内每走几步，就可以看到一群穿统一服装的小朋友盘腿坐在地上，围着一个老师，老师坐在凳子上，轻声细语给小朋友们讲解。
+
+<span style="color: grey;"><font size=1>小朋友们在听讲解</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_381a242e8aad0865b9ad7e41e2f93db8.png)
+
+
+作为一个条件优越，文化繁荣的国家，新加坡让这里的孩子从小就来到自己国家的博物馆，感受自己国家的历史，看新加坡如何一步一步走向繁荣的今天，这确实在无形之中会增加他们的国家认同感。
+
+另外一个展是原始部落展，或许是这里的一个临时展览，和新加坡并没有什么关系。进去不可以拍照，背包还要背在胸前。这是一个图片展，里面展示了很多生活在现代（图片拍摄于近几年）的原始部落的生存图景。
+
+
+
+这些“原始人”确实符合我们的传统中的印象，他们穿着最原始的衣服，说着自己民族的语言，进行着民族独特的仪式。这个展可不适合小朋友看，里面有很多赤身裸体、尸体、不太人道的审美等要素。虽然全部都是图片，但也确实让我开了开眼界。
+
+
+
+
+
+出了博物馆就是福康宁公园，这个公园里面有很多奇形怪状的热带植物，四季常青（好像也没有四季）。
+
+
+
+来这里主要想打卡的是公园的“树洞”，这里听说是一个非常著名的拍照点，有很多人涌到这里来拍照。
+
+<span style="color: grey;"><font size=1>福康宁公园</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_a7fc50254ae13142341c334a328f0321.png)
+
+
+这个“树洞”，不是树上的洞，而是有个洞，上面有树。拍照还是挺特别的，但是到现场看，真的极其普通。树洞下面有很多人在排队拍照，摆各种造型，目测至少要排半个小时吧，真没什么特别的，无法理解。
+
+<span style="color: grey;"><font size=1>树洞</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_713f609899be1e353909f8db99c8ce6a.png)
+
+
+<span style="color: grey;"><font size=1>博物馆的logo，三个随意摆放的字母，看起来跟展板坏了一样，属实是有点前卫了</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_39fbc1df23a1480b464f561638c016f2.png)
+
+
+走完公园，我们快走了两万步了，遂回酒店休息。休息完又去旁边牛车水的餐厅（某种程度上可以说是饭堂？），想找晚饭吃。
+
+
+
+新加坡有一个特别的传统，快餐店类的餐厅，是要自己收拾盘子的，这似乎是跟西方学的，这样就不用雇更多服务员来收拾餐桌了。（感觉这并不是什么好文化？）
+
+
+
+这个餐厅像是一个高中的普普通通的饭堂，或者说像一个小镇的美食街，装修非常朴素，有很多小店。
+
+
+
+这里有一家网红“海南鸡饭”，大排长龙。来自海南的海南鸡饭，却是新加坡的特色美食。采访了一下正在吃的人，他们觉得一般般。对于我们这种对鸡肉要求极其刁钻的人来说，根本不敢吃这个，于是我们又去中午去过的那个商场，在那里吃海南鸡饭。
+
+<span style="color: grey;"><font size=1>牛车水的餐厅</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_0f16064169a04b56472420f2b17f6602.png)
+
+
+<span style="color: grey;"><font size=1>看起来似乎很高级的海南鸡饭</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_3e50fe7cf59d4bd391cc3d558ea7cde9.png)
+
+
+环境好，自然会更贵。我们在这家餐厅吃海南鸡饭，这个套餐印象中是12新（牛车水那边只要6新）。摆盘很好看，色泽很诱人，实际很难吃。这鸡肉软塌塌的，比我大学饭堂的还难吃。不过那个虾饼还行，饭也可以，饭是鸡油饭。
+
+<span style="color: grey;"><font size=1>金沙酒店夜景</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_62a4b714868675b1a47c6b65c5dd061e.png)
+
+
+晚上步行前往金沙酒店，坐电梯上顶楼看夜景。这个也价值200人民币，能上到50多层楼，可以在这艘“诺亚方舟”的船头看看，后面就不行了，后面是给酒店住客用的无边泳池。
+
+<span style="color: grey;"><font size=1>顶楼风景</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_4fb0fcfbe35fb913c8f5f0eb5ca13c95.png)
+
+
+上到楼顶，可以俯瞰夜晚的新加坡城。在船头的不同角度，可以看到高楼大厦，摩天轮，大海，滨海湾公园等等。整个新加坡城灯光璀璨，车水马龙，非常繁华。当然，如果和上海相比，似乎还是上海中心大厦看下去的风景更加壮观。
+
+
+
+在楼顶，风非常大，虽然现在家里是冬天，这里是夏天，在楼顶还是能让人有秋天的感觉（）
+
+<span style="color: grey;"><font size=1>延时摄影拍摄效果</font></span>
+![](https://notes.sjtu.edu.cn/uploads/upload_b4392cd13f7b436e4e5012965f8e21b9.png)
+
+
+为了回本，我们在楼顶坐着发呆，一直坐。坐到排队下楼的电梯都快没人了，我们才下去。
+
+
+
+在上面的这段时间，我们也拍了很多延时摄影，在这里拍的效果很好。
+
+
+
+本来还想着去楼下的购物中心，不过天色已经很晚了，而且我们今天已经快要走断腿了，终于还是坐地铁回酒店。
+
+
+
+
+
+至此，在新加坡这个全新的国家的第一天行程就结束了。这是我在上次出国七年后第一次离开中国境内，置身于一个完全陌生的环境，一切都是全新的，所有的经历都是难以忘记的全新体验。
