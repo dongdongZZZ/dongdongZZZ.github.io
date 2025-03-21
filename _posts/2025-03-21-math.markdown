@@ -1,0 +1,138 @@
+---
+layout:     post
+title:      "论文阅读笔记：Global Lyapunov functions: a long-standing open problem in mathematics, with symbolic transformers"
+subtitle:   "使用Transformer解决开放数学问题：发现动力系统的Lyapunov函数"
+date:       2025-03-21 20:30:00
+author:     "zdd&DeepSeek"
+header-img: "img/bg-walle.jpg"
+catalog: true
+mathjax: true
+tags:
+    - zdd的学习笔记
+---
+
+原文链接：https://arxiv.org/abs/2410.08304
+
+
+# Lyapunov函数的求解及其面临的挑战
+
+## 动力系统和Lyapunov函数
+
+**动力系统**：动力系统是指  
+$$\dot{x} = f(x)$$  
+其中$x=x(t) \in \mathbb{R}^{n}$，且$f \in C^{1}(\mathbb{R}^{n})$。
+
+任意给定范围$\epsilon > 0$，如果上述方程的一个解在初始时刻满足$||x(0)||< \eta$，则$x$在任意时刻$t \in [0,+\infty )$均满足$||x(t)|| \leq \epsilon$。此时称这个系统是**稳定**的。
+
+**Lyapunov函数**：用于判断系统稳定性的函数。称函数$V \in C^1(\mathbb{R}^n) : \mathbb{R}^n \to \mathbb{R}_{\geq 0}$是Lyapunov函数，当且仅当满足以下条件：  
+$$V(0)=0,\ \lim_{||x|| \to + \infty} V(x) = + \infty ,$$  
+$$V(x) > 0 ,\ \nabla V(x) \cdot f(x) \leq 0 \quad \text{for} \quad x \neq 0 .$$
+
+---
+
+## Lyapunov函数的性质与面临的挑战
+
+**定理（Lyapunov 1982）​**  
+> 如果一个系统有一个Lyapunov函数，则该系统是稳定的。
+
+**示例**：  
+系统  
+$$
+\begin{cases}
+    \dot{x}_0(t) = -x_0(t) \\
+    \dot{x}_1(t) = -x_1(t)
+\end{cases}
+$$  
+的Lyapunov函数为$V(x) = a_0x_0^2 + a_1x_1^2$。
+
+**现有挑战**：
+- 130年来无通用解法，现有方法（如SOSTOOLS）仅适用于小规模**多项式**系统；非多项式系统无已知算法
+- 传统方法计算复杂度高，难以扩展
+
+---
+
+# Lyapunov函数的AI求解方法
+
+## 方法创新——数据生成
+
+将动力系统  
+$$
+\begin{cases}
+    \dot{x}_0 = \cos(2.1x_0)(x_1 + 2) \\
+    \dot{x}_1 = \sin(3x_1 + 2)
+\end{cases}
+$$  
+表示为树状结构：
+
+![](https://notes.sjtu.edu.cn/uploads/upload_d4f7fc7dfdb4df98a760ff63af755bf3.png)
+
+
+最终输入序列：  
+$$[*, \cos, *, 21, 10^{\wedge}, -, 1, x_0, +, x_1, 2, \text{SEP}, \sin, +, *, 3, x_1, 2]$$
+
+---
+
+## 方法创新——数据生成（续）
+
+**关键思路：反向生成（Backward Generation）​**
+- ​**先生成Lyapunov函数，再生成其对应的动力系统**，以获得训练集
+- 经证明，$-\nabla V$是Lyapunov函数$V(x)$对应的一个动力系统
+- 随机对$-\nabla V$进行变换，得到Lyapunov函数仍为$V(x)$的一系列动力系统
+
+**对比方法**：正向生成（Forward Generation，依赖现有的SOS工具*）  
+> *SOS（sum of squares）：许多动力系统的Lyapunov函数可表示为平方和形式，这类系统可直接用固定算法求解。
+
+---
+
+## 数据集与训练细节
+
+| 数据集  | 类型       | 方法       | 描述                           |
+|---------|------------|------------|--------------------------------|
+| BPoly   | 多项式     | 反向生成   | 100万系统，2-5个方程，整数系数，非退化 |
+| BNonPoly| 非多项式   | 反向生成   | 100万系统，2-5个方程，非退化       |
+| FLyap   | 多项式     | 正向生成   | 10万系统，SumOfS求解Lyapunov函数 |
+| FBarr   | 多项式     | 正向生成   | 30万系统，SumOfS求解屏障函数*      |
+
+> *屏障函数（barrier functions）：与Lyapunov函数的唯一区别是将$x \neq 0$处的条件$x > 0$改为$x \geq 0$，使用SOS方法时求解难度更低。
+
+**模型**：序列到序列Transformer，输入动力系统方程，输出Lyapunov函数表达式  
+**训练细节**：8层Transformer，640维嵌入，使用Adam优化器
+
+---
+
+# 实验结果及其改进
+
+## 实验结果——域内性能和域外性能
+
+![域内性能对比](https://notes.sjtu.edu.cn/uploads/upload_357e78a0968d72651bf278610d3965f3.png)
+
+
+![域外性能对比](https://notes.sjtu.edu.cn/uploads/upload_7bf0fb7cfb4dc5b1cd4248a747483736.png)
+
+
+---
+
+## 实验改进——混合训练
+
+**混合训练**：在反向多项式数据集（BPoly）中混合300个正向样本，域外正确率从35提升至89。
+
+![](https://notes.sjtu.edu.cn/uploads/upload_7619cd0fe3044894a69b73804fe303d8.png)
+
+
+混合训练模型在各数据集上的表现显著优于其他模型：
+
+![](https://notes.sjtu.edu.cn/uploads/upload_f034043babfcc24129b5bbdeeb96ec0e.png)
+
+
+---
+
+## 其他实验结果
+
+**主要发现**：
+- ​**发现新的Lyapunov函数**：随机生成100,000个系统，模型发现约10%的新Lyapunov函数。
+- ​**专家迭代**：用新发现的Lyapunov函数微调模型，对发现率有一定提升。
+
+**局限性与未来方向**：
+- 系统规模限制（不超过5个变量）
+- 非多项式系统验证依赖数值方法
+- 未来可结合符号推理、扩展至其他数学领域
