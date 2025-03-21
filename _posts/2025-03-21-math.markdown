@@ -22,7 +22,7 @@ tags:
 $$\dot{x} = f(x)$$  
 其中$x=x(t) \in \mathbb{R}^{n}$，且$f \in C^{1}(\mathbb{R}^{n})$。
 
-任意给定范围$\epsilon > 0$，如果上述方程的一个解在初始时刻满足$\left|\left|x(0)\right|\right|< \eta$，则$x$在任意时刻$t \in [0,+\infty )$均满足$\left|\left|x(t)\right|\right| \leq \epsilon$。此时称这个系统是**稳定**的。
+任意给定范围$\epsilon > 0$，如果上述方程的一个解在初始时刻满足$abs(x(0))< \eta$，则$x$在任意时刻$t \in [0,+\infty )$均满足$abs(x(t)) \leq \epsilon$。此时称这个系统是**稳定**的。
 
 **Lyapunov函数**：用于判断系统稳定性的函数。称函数$V \in C^1(\mathbb{R}^n) : \mathbb{R}^n \to \mathbb{R}_{\geq 0}$是Lyapunov函数，当且仅当满足以下条件：  
 $$V(0)=0,\ \lim_{||x|| \to + \infty} V(x) = + \infty ,$$  
