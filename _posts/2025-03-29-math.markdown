@@ -1,0 +1,23 @@
+---
+layout:     post
+title:      "论文阅读笔记：HOList: An Environment for Machine Learning of Higher-Order Theorem Proving"
+subtitle:   "An Environment and Deep Learning Approach"
+date:       2025-03-29 20:30:00
+author:     "zdd&DeepSeek"
+header-img: "img/bg-walle.jpg"
+catalog: true
+mathjax: true
+tags:
+    - zdd的学习笔记
+---
+
+原文链接：[https://arxiv.org/abs/1904.03241](https://arxiv.org/abs/1904.03241)
+
+![](https://notes.sjtu.edu.cn/uploads/upload_c80c631fa5bec6224e63c1b4adec769d.png)
+![](https://notes.sjtu.edu.cn/uploads/upload_507eb047e4ea9e6a765522c02eabd9cf.png)
+![](https://notes.sjtu.edu.cn/uploads/upload_007383f413b3a7f3ceb50fd09647ff97.png)
+![](https://notes.sjtu.edu.cn/uploads/upload_87dbb73c5fbb9fdf66274a4db7f1f4c6.png)
+![](https://notes.sjtu.edu.cn/uploads/upload_62d9e6ac4687fabb0c0ef399cf7fbe57.png)
+![](https://notes.sjtu.edu.cn/uploads/upload_8c6580647ef4899b6738d650b578a336.png)
+![](https://notes.sjtu.edu.cn/uploads/upload_af7f2778679b78aaf942573fc5a1638b.png)
+![](https://notes.sjtu.edu.cn/uploads/upload_e4519f87758cfcfd56a3116c94a03d98.png)
