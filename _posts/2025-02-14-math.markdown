@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "【置顶】你知道你的卡西欧计算器可以在离散数学/模电考试里“开挂”吗？——用计算器获取命题真值表的方法"
+title:      "你知道你的卡西欧计算器可以在离散数学/模电考试里“开挂”吗？——用计算器获取命题真值表的方法"
 subtitle:   ""
-date:       2026-02-14 14:29:00
+date:       2025-02-14 14:29:00
 author:     "zdd"
 header-img: "img/bg-walle.jpg"
 catalog: true
